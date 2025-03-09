@@ -8,7 +8,7 @@ I am currently a Research Associate II at MBZUAI in the Intelligent Visual Analy
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
 |:---:|:---:|
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight) | ✍️ **Random Dev Quote:** ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight) |
 
 
 
