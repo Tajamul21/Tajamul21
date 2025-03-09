@@ -7,13 +7,11 @@
 
 ---
 
-### 🚀 **GitHub Stats & Achievements:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight)  
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight)  
+### 🚀 **GitHub Stats & Contributions:**  
 
-✍️ **Random Dev Quote:**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
+|:---:|:---:|
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight) | ✍️ **Random Dev Quote:** ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
 
 😂 **Dev Meme of the Day:**  
 ![Meme](https://random-memer.herokuapp.com/)  
