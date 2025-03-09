@@ -6,7 +6,7 @@ I am currently a Research Associate II at MBZUAI in the Intelligent Visual Analy
 
 ### 🚀 **GitHub Stats & Contributions:**  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=gruvbox) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=radical) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
 |:---:|:---:|
 
 
