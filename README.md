@@ -10,7 +10,7 @@ I am currently a Research Associate II at MBZUAI in the Intelligent Visual Analy
 |:---:|:---:|
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul221&theme=tokyonight) 
 
 
 
