@@ -6,7 +6,7 @@ I am currently a Research Associate II at MBZUAI in the Intelligent Visual Analy
 
 ### 🚀 **GitHub Stats & Contributions:**  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=radical) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight) | ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Tajamul21&theme=tokyonight) |
 |:---:|:---:|
 
 
@@ -25,7 +25,7 @@ I am currently a Research Associate II at MBZUAI in the Intelligent Visual Analy
 ---
 
 ### 🌐 **Connect with Me:**  
-[![🌍 Website](https://img.shields.io/badge/My%20Webpage-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](your-website-url)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](your-google-scholar-url)  [![📷 Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)  [![📘 Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-url)  [![📧 Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![🌍 Website](https://img.shields.io/badge/My%20Webpage-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](www.tajamulashraf.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](your-google-scholar-url)  [![📷 Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)  [![📘 Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-url)  [![📧 Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ---
 
