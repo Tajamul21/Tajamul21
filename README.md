@@ -1,8 +1,6 @@
 ### Hi there, I'm Tajamul! 👋  
 
-I am currently a Research Consultant at King Abdullah University of Science and Technology (KAUST), working with Prof. Bernard Ghanem. Previously, I was a Research Associate II at MBZUAI in the Intelligent Visual Analytics Lab (IVAL), where I was primarily advised by Prof. Salman Khan and Prof. Rao Muhammad Anwer. Before that, I was a Research Intern at Microsoft Research India in Bengaluru.
-
-I completed my Master’s degree in Computer Science from the Indian Institute of Technology Delhi under the guidance of Prof. Chetan Arora. My academic journey began with a Bachelor’s degree in Information Technology from the National Institute of Technology, Srinagar.
+I am currently a Research Consultant at King Abdullah University of Science and Technology (KAUST), working with Prof. Bernard Ghanem. Previously, I was a Research Associate II at MBZUAI in the Intelligent Visual Analytics Lab (IVAL), where I was primarily advised by Prof. Salman Khan and Prof. Rao Muhammad Anwer. Before that, I was a Research Intern at Microsoft Research India in Bengaluru. I completed my Master’s degree in Computer Science from the Indian Institute of Technology Delhi under the guidance of Prof. Chetan Arora. My academic journey began with a Bachelor’s degree in Information Technology from the National Institute of Technology, Srinagar.
 ---
 
 ### 🚀 **GitHub Stats & Contributions:**  
