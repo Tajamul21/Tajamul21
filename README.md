@@ -6,7 +6,13 @@ I am currently a Research Consultant at King Abdullah University of Science and 
 
 ### 🚀 **GitHub Stats & Contributions:**  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight) | [![Tajamul's Top Repos](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Tajamul21?tab=repositories) |
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tajamul21&show_icons=true&theme=tokyonight)
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tajamul21&layout=compact&theme=tokyonight)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight&no-frame=true&margin-w=5)
 ---
