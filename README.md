@@ -10,8 +10,7 @@ I am currently a Research Consultant at King Abdullah University of Science and 
 |:---:|:---:|
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight) 
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight)
 
 
 ---
