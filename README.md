@@ -16,6 +16,7 @@ I am currently a Research Consultant at King Abdullah University of Science and 
     </td>
   </tr>
 </table>
+
 <!-- Third card separate -->
 <img src="https://github-profile-trophy.vercel.app/?username=Tajamul21&theme=tokyonight&no-frame=true&margin-w=5" alt="Trophies" />
 
