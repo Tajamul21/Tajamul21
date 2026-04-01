@@ -10,9 +10,6 @@ I am currently a Research Consultant at King Abdullah University of Science and 
 
 ---
 
-
----
-
 ### 🌐 **Connect with Me:**  
 [![🌍 Website](https://img.shields.io/badge/My%20Webpage-124122?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.tajamulashraf.com/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajamul221/)  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)]([your-google-scholar-url](https://scholar.google.com/citations?user=n6fSkQ4AAAAJ&hl=en))   [![📧 Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tajamul21.ashraf@gmail.com)  
 
