@@ -1,8 +1,8 @@
 ### Hi there, I'm Tajamul! 👋  
 
-I am currently a Research Manager at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), working under [Prof. Adams Wai-Kin Kong](https://personal.ntu.edu.sg/adamskong/). My work is part of a joint research initiative with [INTERPOL Singapore](https://www.interpol.int/en/How-we-work/Innovation/INTERPOL-Innovation-Centre), focusing on video and temporal understanding.
+I am currently a CS PhD student at [Johns Hopkins University](https://www.jhu.edu/). 
 
-Previously, I was a Research Consultant at [KAUST](https://www.kaust.edu.sa/) working with [Prof. Bernard Ghanem](https://scholar.google.com/citations?user=6VB1vTAAAAAJ), and a Research Associate II at [MBZUAI](https://mbzuai.ac.ae/) in the Intelligent Visual Analytics Lab (IVAL). I have also been a Research Intern at [Microsoft Research India, Bengaluru](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
+Previously, I was a Research Manager at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), a Research Consultant at [KAUST](https://www.kaust.edu.sa/), and a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/). I have also been a Research Intern at [Microsoft Research India, Bengaluru](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
 
 I received my Master’s degree in Computer Science from [IIT Delhi](https://www.iitd.ac.in/) and my Bachelor’s degree in Information Technology from [NIT Srinagar](https://nitsri.ac.in/).
 
