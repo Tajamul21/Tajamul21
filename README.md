@@ -2,7 +2,7 @@
 
 I am currently a CS PhD student at [Johns Hopkins University](https://www.jhu.edu/). 
 
-Previously, I was a Research Manager at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), a Research Consultant at [KAUST](https://www.kaust.edu.sa/), and a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/). I have also been a Research Intern at [Microsoft Research India, Bengaluru](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
+Previously, I was a Research Manager at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), a Research Consultant at [KAUST](https://www.kaust.edu.sa/), and a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/). I have also been a Research Intern at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
 
 I received my Master’s degree in Computer Science from [IIT Delhi](https://www.iitd.ac.in/) and my Bachelor’s degree in Information Technology from [NIT Srinagar](https://nitsri.ac.in/).
 
